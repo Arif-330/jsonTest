@@ -1,0 +1,18 @@
+[
+  {
+    "employee_name": "Arif",
+    "employee_salary": "20k",
+    "employee_age": "28",
+    "profile_image": "Arif/pic"
+  }, {
+    "employee_name": "Sharif",
+    "employee_salary": "10k",
+    "employee_age": "18",
+    "profile_image": "Sharif/pic"
+  }, {
+    "employee_name": "Sayed",
+    "employee_salary": "30k",
+    "employee_age": "28",
+    "profile_image": "Sayed/pic"
+  }
+]
